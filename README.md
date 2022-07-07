@@ -27,7 +27,7 @@ Your bootloader should be unlocked!
 
 7. Click Start on odin to start flashing.
 
-**How to unpack/repack the image**
+##How to unpack/repack the image
 
 `git clone https://github.com/arminask/TWRP-samsung_a52sxq.git`
 
