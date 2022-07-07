@@ -6,6 +6,7 @@ Partially working TWRP custom recovery for Samsung Galaxy A52s 5G
 
 - Touchscreen doesn't work
 - Some partitions don't mount
+- And potentially some other things
 
 If you want to get around the not working touchscreen problem connect a usb mouse via OTG cable to the phone.
 
