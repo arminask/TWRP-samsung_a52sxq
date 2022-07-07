@@ -30,3 +30,17 @@ Your bootloader should be unlocked!
 **How to unpack/repack the image**
 
 `git clone https://github.com/arminask/TWRP-samsung_a52sxq.git`
+
+`cd TWRP-samsung_a52sxq`
+
+**To unpack the image**
+
+`./unpackimg.sh`
+
+2 folders should appear: *ramdisk* and *split_img*
+
+**To repack the image**
+
+`./repackimg.sh`
+
+An image should be generated with a name *image_new.img*
