@@ -10,7 +10,8 @@ Partially working TWRP custom recovery for Samsung Galaxy A52s 5G
 
 If you want to get around the not working touchscreen problem connect a usb mouse via OTG cable to the phone.
 
-
+# Images of working TWRP on A52s 5G
+![twrp_1](https://raw.githubusercontent.com/arminask/TWRP-samsung_a52sxq/main/images/twrp_1.jpg)
 ## How to flash using ODIN
 
 Your bootloader should be unlocked!
