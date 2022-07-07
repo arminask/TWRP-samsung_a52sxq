@@ -50,3 +50,8 @@ Your bootloader should be unlocked!
 `./repackimg.sh`
 
 An image should be generated with a name *image_new.img*
+
+
+## Tools used for modifying image
+
+https://github.com/draekko/AIK-Linux
